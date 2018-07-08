@@ -1,0 +1,14 @@
+{
+  "name": "BotTalk",
+  "version": "1.0.0",
+  "description": "A collection of Discord bots that do stuff with the Cleverbot.io API",
+  "main": "talk.js",
+  "author": "AppleBetas",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.0.0",
+    "lodash": "^4.17.4",
+    "snekfetch": "^4.0.4",
+    "twit": "*"
+  }
+}
